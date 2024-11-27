@@ -23,6 +23,6 @@ Engineering
 I'm eager to apply my skills in real-world projects and collaborate with dynamic teams. Whether it's software development, web applications, or cybersecurity, I'm ready to contribute and learn!
 
 # 📫 Contact Me: marcosino654@gmail.com
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/marcos-moreno-lópez-47ab44257)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-moreno-lópez-47ab44257)
 
 Thanks for stopping by! Let's connect and build something amazing together. 🚀
